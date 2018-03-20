@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "project-sizing-tool",
+    "libraryId": "46c1ef6b-deaa-4803-974d-25b5f19d6bc3",
+    "environment": "spo"
+  }
+}

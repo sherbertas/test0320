@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "project-sizing-tool-client-side-solution",
+    "id": "46c1ef6b-deaa-4803-974d-25b5f19d6bc3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/project-sizing-tool.sppkg"
+  }
+}
